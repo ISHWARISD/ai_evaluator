@@ -1,0 +1,55 @@
+{
+"q10": {
+"marks_awarded": 1.5,
+"max_marks": 2,
+"verdict": "partially_correct",
+"suggestions": [
+{
+"type": "correct",
+"text": "Correctly noted that the statement is wrong and identified transpiration through stomata as a mechanism for excess water removal."
+},
+{
+"type": "error",
+"text": "Stating that other waste just stays inside the plant forever and never comes out is incorrect."
+},
+{
+"type": "missing_step",
+"text": "Failed to mention a second valid strategy for plant waste elimination, such as losing leaves, storing wastes in dead cells/vacuoles, or excreting resins and gums."
+}
+]
+},
+"q13": {
+"marks_awarded": 1.5,
+"max_marks": 3,
+"verdict": "partially_correct",
+"suggestions": [
+{
+"type": "correct",
+"text": "Correctly traced the generation of the electrical impulse at the dendrite and its flow through the cell body and along the axon."
+},
+{
+"type": "missing_step",
+"text": "The required labeled diagram of the neuron was completely omitted despite writing '(dingeam will draw later)'."
+},
+{
+"type": "partial",
+"text": "Missed describing how the electrical impulse triggers chemical release at the axon end to cross the synapse into the next neuron."
+}
+]
+},
+"q28": {
+"marks_awarded": 3.5,
+"max_marks": 4,
+"verdict": "partially_correct",
+"suggestions": [
+{
+"type": "correct",
+"text": "Successfully answered Part A with correct reasoning, Part B with the accurate computation of 6 mL NaOH, and provided a perfectly balanced chemical equation for Part C."
+},
+{
+"type": "partial",
+"text": "In Part C, you only identified the reaction as a neutralisation reaction. You missed identifying it as a double displacement reaction and did not provide the required justification explaining ion replacement."
+}
+]
+}
+}
